@@ -27,5 +27,8 @@
     <ClCompile Include="Meeting Rooms II.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Backspace String Compare.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

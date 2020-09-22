@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Backspace String Compare.cpp" />
     <ClCompile Include="Kth Largest Element in an Array.cpp" />
     <ClCompile Include="Meeting Rooms II.cpp" />
     <ClCompile Include="Merge K Sorted Lists.cpp" />
