@@ -18,7 +18,10 @@
     <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Merge K Sorted Lists 342.cpp">
+    <ClCompile Include="Kth Largest Element in an Array.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Merge K Sorted Lists.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
