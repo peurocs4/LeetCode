@@ -23,7 +23,7 @@ public:
 
   int minMeetingRooms(vector<vector<int>>& intervals) {
     sort(intervals.begin(), intervals.end(), Comparator());
-    print(intervals);
+    //print(intervals);
 
     priority_queue<int, vector<int>, greater<>> pq;
 
