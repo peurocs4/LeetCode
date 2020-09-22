@@ -5,6 +5,7 @@
 
 #include <iostream>
 #include <vector>
+#include <queue>
 #include <algorithm>
 #include <climits>
 using namespace std;
@@ -24,29 +25,19 @@ public:
     sort(intervals.begin(), intervals.end(), Comparator());
     print(intervals);
 
-    vector<int> roomEndTimes;
+    priority_queue<int, vector<int>, greater<>> pq;
 
     for (const auto& interval : intervals) {
       const auto& start = interval[0];
       const auto& end = interval[1];
 
-      int minIndex = -1;
-      for (int i = 0; i < roomEndTimes.size(); ++i) {
-        if (roomEndTimes[i] <= start) {
-          minIndex = i;
-          break;
-        }
+      if (!pq.empty() && pq.top() <= start) {
+        pq.pop();
       }
-
-      if (minIndex == -1) {
-        roomEndTimes.push_back(end);
-      }
-      else {
-        roomEndTimes[minIndex] = end;
-      }
+      pq.push(end);
     }
 
-    return roomEndTimes.size();
+    return pq.size();
   }
 };
 
