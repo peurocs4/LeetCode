@@ -1,3 +1,8 @@
+#ifndef Merge K_Sorted_Lists_h__
+#define Merge K_Sorted_Lists_h__
+
+
+
 #include <vector>
 #include <queue>
 using namespace std;
@@ -47,3 +52,7 @@ public:
     return answer.next;
   }
 };
+
+
+
+#endif // Merge K_Sorted_Lists_h__
