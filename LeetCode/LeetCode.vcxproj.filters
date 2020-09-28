@@ -18,19 +18,22 @@
     <ClCompile Include="Source.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Kth Largest Element in an Array.cpp">
+    <ClCompile Include="MinimumCostToHireKWorkers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Merge K Sorted Lists.cpp">
+    <ClCompile Include="BackspaceStringCompare.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Meeting Rooms II.cpp">
+    <ClCompile Include="KthLargestElementInAnArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Backspace String Compare.cpp">
+    <ClCompile Include="MeetingRoomsII.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Trapping Rain Water.cpp">
+    <ClCompile Include="MergeKSortedLists.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TrappingRainWater.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

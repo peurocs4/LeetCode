@@ -139,12 +139,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Backspace String Compare.cpp" />
-    <ClCompile Include="Kth Largest Element in an Array.cpp" />
-    <ClCompile Include="Meeting Rooms II.cpp" />
-    <ClCompile Include="Merge K Sorted Lists.cpp" />
+    <ClCompile Include="BackspaceStringCompare.cpp" />
+    <ClCompile Include="KthLargestElementInAnArray.cpp" />
+    <ClCompile Include="MeetingRoomsII.cpp" />
+    <ClCompile Include="MergeKSortedLists.cpp" />
+    <ClCompile Include="MinimumCostToHireKWorkers.cpp" />
     <ClCompile Include="Source.cpp" />
-    <ClCompile Include="Trapping Rain Water.cpp" />
+    <ClCompile Include="TrappingRainWater.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
