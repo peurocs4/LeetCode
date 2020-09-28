@@ -1,10 +1,10 @@
-#ifndef Merge K_Sorted_Lists_h__
-#define Merge K_Sorted_Lists_h__
-
+#ifndef MergeKSortedLists_h__
+#define MergeKSortedLists_h__
 
 
 #include <vector>
 #include <queue>
+
 using namespace std;
 
 struct ListNode {
@@ -14,8 +14,6 @@ struct ListNode {
   ListNode(int x) : val(x), next(nullptr) {}
   ListNode(int x, ListNode* next) : val(x), next(next) {}
 };
-
-
 
 class Solution {
 public:
@@ -54,5 +52,4 @@ public:
 };
 
 
-
-#endif // Merge K_Sorted_Lists_h__
+#endif // MergeKSortedLists_h__

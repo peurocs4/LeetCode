@@ -1,6 +1,5 @@
-#ifndef Meeting_Rooms_II_h__
-#define Meeting_Rooms_II_h__
-
+#ifndef MeetingRoomsII_h__
+#define MeetingRoomsII_h__
 
 
 #include <iostream>
@@ -8,6 +7,7 @@
 #include <queue>
 #include <algorithm>
 #include <climits>
+
 using namespace std;
 
 class Solution {
@@ -41,8 +41,6 @@ public:
   }
 };
 
-
-
 void print(vector<vector<int>>& intervals) {
   for (const auto& item : intervals) {
     cout << item[0] << ", " << item[1] << endl;
@@ -50,5 +48,4 @@ void print(vector<vector<int>>& intervals) {
 }
 
 
-
-#endif // Meeting_Rooms_II_h__
+#endif // MeetingRoomsII_h__

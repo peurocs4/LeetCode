@@ -1,13 +1,11 @@
-#ifndef Backspace_String_Compare_h__
-#define Backspace_String_Compare_h__
-
+#ifndef BackspaceStringCompare_h__
+#define BackspaceStringCompare_h__
 
 
 #include <vector>
 #include <string>
+
 using namespace std;
-
-
 
 class Solution {
 public:
@@ -51,5 +49,4 @@ public:
 };
 
 
-
-#endif // Backspace_String_Compare_h__
+#endif // BackspaceStringCompare_h__

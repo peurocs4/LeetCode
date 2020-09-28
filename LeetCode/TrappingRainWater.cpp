@@ -1,8 +1,7 @@
-#ifndef Trapping_Rain_Water_h__
-#define Trapping_Rain_Water_h__
+#ifndef TrappingRainWater_h__
+#define TrappingRainWater_h__
 
 
-#include <algorithm>
 #include <vector>
 
 using namespace std;
@@ -34,4 +33,4 @@ public:
 };
 
 
-#endif // Trapping_Rain_Water_h__
+#endif // TrappingRainWater_h__

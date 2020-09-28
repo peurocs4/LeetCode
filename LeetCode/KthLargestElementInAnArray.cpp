@@ -1,10 +1,10 @@
-#ifndef Kth_Largest_Element_in_an_Array_h__
-#define Kth_Largest_Element_in_an_Array_h__
-
+#ifndef KthLargestElementInAnArray_h__
+#define KthLargestElementInAnArray_h__
 
 
 #include <vector>
 #include <algorithm>
+
 using namespace std;
 
 class Solution {
@@ -16,5 +16,4 @@ public:
 };
 
 
-
-#endif // Kth_Largest_Element_in_an_Array_h__
+#endif // KthLargestElementInAnArray_h__
