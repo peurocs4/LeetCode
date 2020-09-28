@@ -144,6 +144,7 @@
     <ClCompile Include="Meeting Rooms II.cpp" />
     <ClCompile Include="Merge K Sorted Lists.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Trapping Rain Water.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
