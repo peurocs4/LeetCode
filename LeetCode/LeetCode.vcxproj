@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BackspaceStringCompare.cpp" />
+    <ClCompile Include="KClosestPointsToOrigin.cpp" />
     <ClCompile Include="KthLargestElementInAnArray.cpp" />
     <ClCompile Include="MeetingRoomsII.cpp" />
     <ClCompile Include="MergeKSortedLists.cpp" />

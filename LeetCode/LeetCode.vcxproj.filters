@@ -36,5 +36,8 @@
     <ClCompile Include="TrappingRainWater.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="KClosestPointsToOrigin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
