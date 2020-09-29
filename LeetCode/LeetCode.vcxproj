@@ -147,6 +147,7 @@
     <ClCompile Include="MinimumCostToHireKWorkers.cpp" />
     <ClCompile Include="Remove Nth Node From End Of List.cpp" />
     <ClCompile Include="Source.cpp" />
+    <ClCompile Include="CopyListWithRandomPointer.cpp" />
     <ClCompile Include="TrappingRainWater.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

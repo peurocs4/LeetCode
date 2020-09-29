@@ -42,5 +42,8 @@
     <ClCompile Include="Remove Nth Node From End Of List.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CopyListWithRandomPointer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
