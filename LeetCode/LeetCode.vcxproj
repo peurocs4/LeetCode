@@ -145,6 +145,7 @@
     <ClCompile Include="MeetingRoomsII.cpp" />
     <ClCompile Include="MergeKSortedLists.cpp" />
     <ClCompile Include="MinimumCostToHireKWorkers.cpp" />
+    <ClCompile Include="Remove Nth Node From End Of List.cpp" />
     <ClCompile Include="Source.cpp" />
     <ClCompile Include="TrappingRainWater.cpp" />
   </ItemGroup>
