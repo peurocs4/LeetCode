@@ -39,10 +39,13 @@
     <ClCompile Include="KClosestPointsToOrigin.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Remove Nth Node From End Of List.cpp">
+    <ClCompile Include="CopyListWithRandomPointer.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="CopyListWithRandomPointer.cpp">
+    <ClCompile Include="BinaryTreeMaximumPathSum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RemoveNthNodeFromEndOfList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
