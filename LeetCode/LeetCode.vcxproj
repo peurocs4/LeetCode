@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="BackspaceStringCompare.cpp" />
     <ClCompile Include="BinaryTreeMaximumPathSum.cpp" />
+    <ClCompile Include="CountCompleteTreeNodes.cpp" />
     <ClCompile Include="KClosestPointsToOrigin.cpp" />
     <ClCompile Include="KthLargestElementInAnArray.cpp" />
     <ClCompile Include="MeetingRoomsII.cpp" />

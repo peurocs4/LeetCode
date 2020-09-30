@@ -48,5 +48,8 @@
     <ClCompile Include="RemoveNthNodeFromEndOfList.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="CountCompleteTreeNodes.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
